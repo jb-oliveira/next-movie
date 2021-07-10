@@ -1,4 +1,4 @@
-import { tmbdApiKey, tmbdUrl } from '../../lib/tmdb'
+import { tmbdApiKey, tmbdUrl } from '../../../lib/tmdb'
 
 export default  async (req, res) => {
 
